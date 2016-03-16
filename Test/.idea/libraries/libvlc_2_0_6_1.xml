@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libvlc-2.0.6-1">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/libvlc-2.0.6-1.jar!/" />
+    </SOURCES>
+  </library>
+</component>
